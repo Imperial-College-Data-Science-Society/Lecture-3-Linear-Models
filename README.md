@@ -37,8 +37,8 @@ Finally, we will get our hands dirty with implementing this algorithm in vanilla
 
 #### Setup
 
-1. Follow `Python` setup environment
-2. Run `make setup` command
+1. Follow `Python` setup environment, according to `Docs` repocitory.
+2. Run `source scripts/setup.sh` command.
 
 ## Resources
 
