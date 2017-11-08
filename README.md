@@ -1,4 +1,6 @@
-# Workshop #1
+# Linear Models
+
+> ICDSS Machine Learning Workshop Series: Linear Models
 
 - [Prerequisites](#prerequisites)
 - [Overview](#overview)
@@ -16,9 +18,9 @@
 
 ## Overview
 
-The aim of this workshop is to introduce you to **Data Science** and especially **Linear Models**.
-We will answer questions, such as "_what is a model?_" and "_why linear in particular_".
-Then, we will go through some applications, starting with a _Simple Beta Hedging_ algorithm, usually used in Finance. 
+The aim of this workshop is to introduce you to Data Science and especially **Linear Models**.
+We will answer questions, such as "what is a model?" and "why linear in particular".
+Then, we will go through some applications, starting with a Simple Beta Hedging algorithm, usually used in Finance. 
 Finally, we will get our hands dirty with implementing this algorithm in vanilla `Python` and then using off-shelf Machine Learning frameworks, such as `scikit-learn` and `TensorFlow`.
 
 ## Agenda
@@ -36,6 +38,8 @@ Finally, we will get our hands dirty with implementing this algorithm in vanilla
 > Vanilla Python
 
 #### Setup
+
+##### macOS
 
 1. Follow `Python` setup environment, according to `Docs` repocitory.
 2. Run `source scripts/setup.sh` command.
