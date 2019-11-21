@@ -23,6 +23,14 @@ We will answer questions, such as "what is a model?" and "why linear in particul
 Then, we will go through some applications, starting with a Simple Beta Hedging algorithm, usually used in Finance. 
 Finally, we will get our hands dirty with implementing this algorithm in vanilla `Python` and then using off-shelf Machine Learning frameworks, such as `scikit-learn` and `TensorFlow`.
 
+## Tasks
+Complete exercise task in 'Demo.ipynb' the 'notebooks' folder.
+Use the 'Linear Models.ipynb' notebook for guidance
+
+## Link to Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Imperial-College-Data-Science-Society/Linear-Models/master)
+
+
 ## Agenda
 
 ### Theory
